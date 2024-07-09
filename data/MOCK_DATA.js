@@ -1,0 +1,178 @@
+export const rec_channels = [
+  {
+    id: 1,
+    avatar: "https://robohash.org/etnihilmolestiae.png?size=50x50&set=set1",
+    userame: "ymoreno0",
+    game_name: "Tres-Zap",
+    rank: 88,
+  },
+  {
+    id: 2,
+    avatar:
+      "https://robohash.org/consequaturexplicaboquia.png?size=50x50&set=set1",
+    userame: "fnary1",
+    game_name: "Tin",
+    rank: 40,
+  },
+  {
+    id: 3,
+    avatar: "https://robohash.org/autvoluptatemmodi.png?size=50x50&set=set1",
+    userame: "alacase2",
+    game_name: "Ventosanzap",
+    rank: 88,
+  },
+  {
+    id: 4,
+    avatar: "https://robohash.org/quissednon.png?size=50x50&set=set1",
+    userame: "pirvin3",
+    game_name: "Sonair",
+    rank: 85,
+  },
+  {
+    id: 5,
+    avatar:
+      "https://robohash.org/magnamexcepturilaboriosam.png?size=50x50&set=set1",
+    userame: "gscarff4",
+    game_name: "Holdlamis",
+    rank: 6,
+  },
+  {
+    id: 6,
+    avatar: "https://robohash.org/rerumaccusamusest.png?size=50x50&set=set1",
+    userame: "sebbin5",
+    game_name: "Fix San",
+    rank: 33,
+  },
+  {
+    id: 7,
+    avatar: "https://robohash.org/utnondelectus.png?size=50x50&set=set1",
+    userame: "grault6",
+    game_name: "Kanlam",
+    rank: 40,
+  },
+  {
+    id: 8,
+    avatar: "https://robohash.org/cumquequoomnis.png?size=50x50&set=set1",
+    userame: "abryns7",
+    game_name: "Zoolab",
+    rank: 90,
+  },
+  {
+    id: 9,
+    avatar: "https://robohash.org/maximeutipsum.png?size=50x50&set=set1",
+    userame: "mpotkins8",
+    game_name: "Namfix",
+    rank: 79,
+  },
+  {
+    id: 10,
+    avatar: "https://robohash.org/illumquidemcorrupti.png?size=50x50&set=set1",
+    userame: "cplowes9",
+    game_name: "Treeflex",
+    rank: 61,
+  },
+  {
+    id: 11,
+    avatar: "https://robohash.org/eanonasperiores.png?size=50x50&set=set1",
+    userame: "sgreatbacha",
+    game_name: "Tin",
+    rank: 94,
+  },
+  {
+    id: 12,
+    avatar:
+      "https://robohash.org/exercitationemisteipsum.png?size=50x50&set=set1",
+    userame: "kfallab",
+    game_name: "Quo Lux",
+    rank: 2,
+  },
+  {
+    id: 13,
+    avatar: "https://robohash.org/voluptatemaperiameum.png?size=50x50&set=set1",
+    userame: "cjaquesc",
+    game_name: "Mat Lam Tam",
+    rank: 49,
+  },
+  {
+    id: 14,
+    avatar: "https://robohash.org/corporisidrem.png?size=50x50&set=set1",
+    userame: "rrowlandsd",
+    game_name: "Fintone",
+    rank: 43,
+  },
+  {
+    id: 15,
+    avatar: "https://robohash.org/etnihildolorum.png?size=50x50&set=set1",
+    userame: "ibabalolae",
+    game_name: "Toughjoyfax",
+    rank: 42,
+  },
+  {
+    id: 16,
+    avatar: "https://robohash.org/molestiasteneturenim.png?size=50x50&set=set1",
+    userame: "asuttyf",
+    game_name: "Sonair",
+    rank: 37,
+  },
+  {
+    id: 17,
+    avatar:
+      "https://robohash.org/ducimusquaeratlaboriosam.png?size=50x50&set=set1",
+    userame: "ccheeneyg",
+    game_name: "Pannier",
+    rank: 37,
+  },
+  {
+    id: 18,
+    avatar:
+      "https://robohash.org/sequivoluptatemaccusamus.png?size=50x50&set=set1",
+    userame: "jpenwardenh",
+    game_name: "Vagram",
+    rank: 26,
+  },
+  {
+    id: 19,
+    avatar: "https://robohash.org/adidaliquam.png?size=50x50&set=set1",
+    userame: "yarnaulti",
+    game_name: "Subin",
+    rank: 6,
+  },
+  {
+    id: 20,
+    avatar: "https://robohash.org/ipsatemporamodi.png?size=50x50&set=set1",
+    userame: "fheadsj",
+    game_name: "Aerified",
+    rank: 24,
+  },
+];
+export const top_channels = [
+  {
+    id: 1,
+    avatar: "https://robohash.org/etnihilmolestiae.png?size=50x50&set=set1",
+    userame: "ymoreno0",
+    game_name: "Tres-Zap",
+    rank: 88,
+  },
+  {
+    id: 2,
+    avatar:
+      "https://robohash.org/consequaturexplicaboquia.png?size=50x50&set=set1",
+    userame: "fnary1",
+    game_name: "Tin",
+    rank: 40,
+  },
+  {
+    id: 3,
+    avatar: "https://robohash.org/autvoluptatemmodi.png?size=50x50&set=set1",
+    userame: "alacase2",
+    game_name: "Ventosanzap",
+    rank: 88,
+  },
+  {
+    id: 4,
+    avatar: "https://robohash.org/quissednon.png?size=50x50&set=set1",
+    userame: "pirvin3",
+    game_name: "Sonair",
+    rank: 85,
+  },
+];
