@@ -22,7 +22,7 @@ const NavBar = () => {
 
   return (
     <>
-      <div className="fixed h-14 w-full flex flex-nowrap items-center p-4 bg-[#0e0e10] mb-[2px] z-100">
+      <div className="fixed h-14 w-full flex flex-nowrap items-center p-4 bg-[#0e0e10] mb-[2px] z-10">
         {/* Left Side */}
         <div className="flex grow items-center justify-start">
           <Link href="/">
@@ -228,13 +228,13 @@ const NavBar = () => {
               onClick={() => setNav(false)}
               className="p-4 text-3xl font-bold"
             >
-              <Link href="/">Live Channels</Link>
+              <Link href="/#live">Live Channels</Link>
             </li>
             <li
               onClick={() => setNav(false)}
               className="p-4 text-3xl font-bold"
             >
-              <Link href="/">Top Categories</Link>
+              <Link href="/#categories">Top Categories</Link>
             </li>
             <li
               onClick={() => setNav(false)}
